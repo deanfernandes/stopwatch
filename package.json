@@ -1,0 +1,13 @@
+{
+  "name": "@deanfernandes/stopwatch",
+  "description": "vanilla js google style stopwatch",
+  "version": "1.0.1",
+  "main": "dist/stopwatch.js",
+  "style": "dist/stopwatch.css",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
