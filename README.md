@@ -4,4 +4,4 @@
 
 Google style stopwatch, vanilla js
 
-![Screenshot](stopwatch.gif)
+![Screenshot](https://github.com/deanfernandes/stopwatch/blob/3fa28160e794a21f52c2d070318e8f34dab0070e/stopwatch.gif)
