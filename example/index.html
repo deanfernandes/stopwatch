@@ -7,11 +7,9 @@
   </head>
   <body>
     <div id="stopwatchDiv"></div>
-    <div id="stopwatch2"></div>
     <script src="../dist/stopwatch.js"></script>
     <script>
-      const stopwatchDiv = document.getElementById("stopwatchDiv");
-      const stopwatch = new Stopwatch(stopwatchDiv);
+      const stopwatch = new Stopwatch(document.getElementById("stopwatchDiv"));
     </script>
   </body>
 </html>
