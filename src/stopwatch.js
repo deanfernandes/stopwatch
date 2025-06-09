@@ -1,4 +1,4 @@
-class Stopwatch {
+export default class Stopwatch {
   constructor(stopwatch) {
     this.stopwatch = stopwatch;
 
